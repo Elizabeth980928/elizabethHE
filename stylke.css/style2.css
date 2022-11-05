@@ -14,11 +14,6 @@ body{
 }
 
 
-.resume_wrapper .resume_left{
-	padding-left: 15px;
-	height: 300px;
-	background: #605f66;
-}
 
 .resume_wrapper .resume_left .resume_image{
 	width: 80%;
@@ -78,7 +73,7 @@ body{
 }
 
 .resume_wrapper .resume_left .resume_contact .resume_info:last-child{
-	 margin-top: 10px;
+	 margin-top: 0px;
 }
 
 .resume_wrapper .resume_left .resume_contact .resume_subtitle{
@@ -111,16 +106,8 @@ body{
 	
 }
 
-.resume_wrapper .resume_right{
-	width: 65%;
-	padding: 20px 40px;
-	color: #26252d;
-}
 
-.resume_wrapper .resume_right .resume_namerole .name{
-	color: #26252d;
-	font-size: 32px;
-}
+
 
 .resume_wrapper .resume_right .resume_namerole .role{
 	font-size: 14px;
@@ -136,7 +123,7 @@ body{
 }
 
 .resume_wrapper .resume_right .resume_data .year{
-	padding-right: 35px;
+	padding-right:35px;
 	width: 115px;
 	position: relative;
 }
